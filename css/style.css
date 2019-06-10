@@ -93,3 +93,54 @@ footer p {
     font-family: Arial, Helvetica, sans-serif;
     padding-top: 10px;
 }
+
+input {
+    width: 955px;
+    padding-top: 6px;
+    margin-top: 1px;
+    margin-bottom: 10px;
+}
+
+#form {
+    padding: 10px;
+    margin-left: -9px;
+}
+
+textarea {
+    width: 960px;
+    height: 100px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: .3px solid #cccccc;
+    background-color: #ffffff;
+    resize: none;
+    margin-bottom: 10px;
+  }
+
+  #secondpage {
+  position: relative;
+  margin: 0 auto;
+  background-color: #ffffff;
+  width: 960px;
+  border-style: solid;
+  border-color: #dddddd;
+  border-width: 1px;
+  margin-top: 100px;
+  color: #777777;
+  padding: 10px 15px;
+  height: 360px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1.5em;
+}
+
+form a {
+    background-color: #4AAAA5;
+    padding: 10px 20px;
+    margin-top: 5px; 
+    color: #ffffff;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-decoration: none;
+    font-size: 12px;
+
+}
